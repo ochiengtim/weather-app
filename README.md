@@ -19,7 +19,6 @@ A sleek, mobile-responsive weather application built with HTML, CSS, and JavaScr
 
   **Mobile View**                          
 |--------------------------------------|
-
 <img width="217" alt="Screenshot 2025-04-29 131041" src="https://github.com/user-attachments/assets/f9d1c051-be78-4687-9474-af629c9ae72b" /> 
 
 ---
