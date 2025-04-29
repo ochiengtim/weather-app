@@ -14,7 +14,8 @@ A sleek, mobile-responsive weather application built with HTML, CSS, and JavaScr
 
 | Desktop View                          | Mobile View                           |
 |--------------------------------------|---------------------------------------|
-| ![Desktop](screenshots/desktop.png) | ![Mobile](screenshots/mobile.png)     |
+| ![Desktop](<img width="959" alt="Screenshot 2025-04-29 130844" src="https://github.com/user-attachments/assets/00c2ebe9-cdba-40e3-8cd2-3c8da42a592f" />
+) | ![Mobile](screenshots/mobile.png)     |
 
 *(You can create these by taking screenshots and saving them in a `screenshots/` folder)*
 
